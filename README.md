@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=AI+%26+ML+Engineering+Student;Full+Stack+Developer;Python+Developer;Exploring+Generative+AI" alt="Typing SVG" />
 </p>
 
-## 👨‍💻 Ovjectives
+## 👨‍💻 Objectives
 
 I am a passionate and curious **Computer Science (AI & ML)** student who enjoys building real-world applications and continuously learning new technologies.
 
@@ -61,17 +61,17 @@ I am a passionate and curious **Computer Science (AI & ML)** student who enjoys 
 ### 📝 MemoStack – Notes Application
 A full-stack notes application with a modern UI for creating, organizing, and managing notes.
 - **Tech Stack:** React, Node.js, Express.js, MongoDB
-- 🔗 https://github.com/Das-krishnandu-01/MemoStack-Notes_Application
+- 🔗 https://github.com/CompileWithKrish/MemoStack-Notes_Application
 
 ### 🛒 ByteBazaar – Shopping Cart Simulation
 A shopping cart simulation that demonstrates product browsing, cart management, and order flow using modern web technologies.
 - **Tech Stack:** HTML, CSS, JavaScript
-- 🔗 https://github.com/Das-krishnandu-01/bytebazaar-shopping-cart-simulation
+- 🔗 https://github.com/CompileWithKrish/bytebazaar-shopping-cart-simulation
 
 ### 🏛️ Landmark Detection using VGG19
 A deep learning project for landmark image classification using the VGG19 architecture.
 - **Tech Stack:** Python, TensorFlow/Keras, OpenCV
-- 🔗 https://github.com/Das-krishnandu-01/Landmark-Detection-VGG19
+- 🔗 https://github.com/CompileWithKrish/Landmark-Detection-VGG19
 ---
 
 ## 📈 What I’m Working On
@@ -81,7 +81,13 @@ A deep learning project for landmark image classification using the VGG19 archit
 - Preparing for internships and hackathons
 
 ---
+## 📊 GitHub Stats & 🔥 Streak
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CompileWithKrish&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=CompileWithKrish&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak"/>
+</p>
+---
 ## 🤝 Let's Connect
 
 <p align="left">
