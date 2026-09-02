@@ -1,6 +1,7 @@
 <p align="right">
-  <a href="https://complie-with-krish.onrender.com/">
-    <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <a href="https://complie-with-krish.onrender.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 <h1 align="center">✦ 𝙷𝚎𝚕𝚕𝚘, 𝙸'𝚖 𝙺𝚛𝚒𝚜𝚑𝚗𝚊𝚗𝚍𝚞 𝙳𝚊𝚜</h1>
 
