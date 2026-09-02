@@ -1,3 +1,14 @@
+<p align="right">
+  <a href="https://complie-with-krish.onrender.com/">
+    <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/CompileWithKrish">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:krishnandu.mist@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 <h1 align="center">✦ 𝙷𝚎𝚕𝚕𝚘, 𝙸'𝚖 𝙺𝚛𝚒𝚜𝚑𝚗𝚊𝚗𝚍𝚞 𝙳𝚊𝚜</h1>
 
 <p align="center">
