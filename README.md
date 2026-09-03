@@ -106,7 +106,7 @@ A deep learning project for landmark image classification using the VGG19 archit
 
 A deep learning project that classifies pet images using a Convolutional Neural Network (CNN), including image preprocessing, model training, validation, accuracy visualization, and prediction on unseen pet images.
 
-- **Tech Stack: Python, TensorFlow/Keras, NumPy, Matplotlib
+- **Tech Stack:** Python, TensorFlow/Keras, NumPy, Matplotlib
 ---
 
 ## 📈 What I'm Working On
