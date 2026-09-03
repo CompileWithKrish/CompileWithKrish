@@ -15,12 +15,12 @@ I am a passionate and curious **Computer Science (AI & ML)** student who enjoys 
 
 ### 🚀 Currently focusing on:
 
-- 🤖 Generative AI & AI-powered applications
-- 💻 Full Stack Web Development
-- 🐍 Python, C++, and JavaScript
-- 📊 Data Structures & Algorithms
-- 🔧 Building scalable and production-ready projects
-- 🌐 Open Source & Collaborative Development
+-  Generative AI & AI-powered applications
+-  Full Stack Web Development
+-  Python, C++, and JavaScript
+-  Data Structures & Algorithms
+-  Building scalable and production-ready projects
+-  Open Source & Collaborative Development
 
 ---
 
@@ -89,32 +89,34 @@ I am a passionate and curious **Computer Science (AI & ML)** student who enjoys 
 A full-stack notes application with a modern UI for creating, organizing, and managing notes.
 
 - **Tech Stack:** React, Node.js, Express.js, MongoDB
-- 🔗 https://github.com/CompileWithKrish/MemoStack-Notes_Application
 
 ### 🛒 ByteBazaar – Shopping Cart Simulation
 
 A shopping cart simulation demonstrating product browsing, cart management, and order flow using web technologies.
 
 - **Tech Stack:** HTML, CSS, JavaScript
-- 🔗 https://github.com/CompileWithKrish/bytebazaar-shopping-cart-simulation
 
 ### 🏛️ Landmark Detection using VGG19
 
 A deep learning project for landmark image classification using the VGG19 architecture.
 
 - **Tech Stack:** Python, TensorFlow/Keras, OpenCV
-- 🔗 https://github.com/CompileWithKrish/Landmark-Detection-VGG19
 
+### 🐾 Pet Face Classification using CNN
+
+A deep learning project that classifies pet images using a Convolutional Neural Network (CNN), including image preprocessing, model training, validation, accuracy visualization, and prediction on unseen pet images.
+
+- **Tech Stack: Python, TensorFlow/Keras, NumPy, Matplotlib
 ---
 
 ## 📈 What I'm Working On
 
-- 🤖 Exploring **Generative AI and LLM-based applications**
-- 💻 Building **full-stack applications** with modern technologies
-- 🧠 Strengthening **Data Structures & Algorithms**
-- 🔌 Learning to integrate **AI models with real-world applications**
-- 🏗️ Improving software architecture and writing production-ready code
-- 🚀 Participating in **hackathons and collaborative projects**
+-  Exploring **Generative AI and LLM-based applications**
+-  Building **full-stack applications** with modern technologies
+-  Strengthening **Data Structures & Algorithms**
+-  Learning to integrate **AI models with real-world applications**
+-  Improving software architecture and writing production-ready code
+-  Participating in **hackathons and collaborative projects**
 
 ---
 
